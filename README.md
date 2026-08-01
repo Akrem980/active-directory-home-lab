@@ -73,11 +73,11 @@ A Windows Server 2025 Domain Controller lab built from scratch in VirtualBox to 
 
 ## Screenshots
 
-![Server Manager - Roles Installed](./server-manager-roles.png)
-![Local Server Properties](./local-server-properties.png)
-![Active Directory Users and Computers](./aduc-domain-structure.png)
-![DNS Manager - Forward Lookup Zone](./dns-manager.png)
-![IP Configuration - ipconfig all](./ipconfig-all.png)
+![Server Manager - Roles Installed]
+![Local Server Properties]
+![Active Directory Users and Computers]
+![DNS Manager - Forward Lookup Zone]
+![IP Configuration - ipconfig all]
 
 ## Skills Demonstrated
 
