@@ -3,6 +3,7 @@
 A Windows Server 2025 Domain Controller lab built from scratch in VirtualBox to practice enterprise identity and network infrastructure.
 
 ## Architecture
+```
 
 ┌─────────────────────────────────────────┐
 │           VirtualBox Host               │
@@ -21,6 +22,7 @@ A Windows Server 2025 Domain Controller lab built from scratch in VirtualBox to 
 │  Network: 192.168.56.0/24               │
 └─────────────────────────────────────────┘
 
+```
 
 | Machine | OS | Role | IP Address |
 |---------|-----|------|------------|
