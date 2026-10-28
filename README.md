@@ -100,7 +100,7 @@ A Windows Server 2025 Domain Controller lab built from scratch in VirtualBox to 
 
 ## Next Steps
 
-- [ ] Deploy Windows 11 client VM and join to domain
+- [ ] Deploy Windows 10 client VM and join to domain
 - [ ] Configure Group Policy Objects (GPOs) for security hardening
 - [ ] Automate bulk user creation with PowerShell
 - [ ] Pursue Azure Administrator (AZ-104) certification
